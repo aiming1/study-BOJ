@@ -1,2 +1,3 @@
-# study-BOJ
-This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+# 🧶 BOJ 문제풀이 기록
+꾸준함을 목표로 커밋합니다 ✨
+
