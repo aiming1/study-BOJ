@@ -6,10 +6,7 @@ t = int(input())
 
 for _ in range(t):
     a, b = map(int, input().split())
-    num = 1
-    for _ in range(b):
-        num = (num * a) % 10
-    if num != 0:
-        print(num)
-    else:
+    if a % 10 == 0:
         print(10)
+    else:
+        print((a ** ((b % 4) + 4)) % 10)
